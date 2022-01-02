@@ -1,0 +1,69 @@
+.centered{
+    text-align: center;
+}
+.gacolor{
+    background-color: saddlebrown; color:gold;
+}
+.gaborder{
+    border-style:solid; border-width: 4px; border-color:black; 
+}
+
+.rhfcolor{
+    background-color:#152238; color:#7d9f1c;
+}
+.rhfborder{
+    border-style:solid;
+    border-color: black;
+}
+.rhflink{
+    background-color:#7d9f1c; 
+}
+.cjcolor{
+    background-color:#189de4; color:#84e35d;
+}
+.cjborder{
+    border-style:solid; border-color:black;
+}
+.svcolor{
+    color:navy; background-color:tan;
+ }
+.svborder{
+    border-style:solid;
+    border-color:black;
+}
+.indexborder{
+    border-style: solid; 
+    border-color: black;
+}
+.indexcolor{
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIjPXX4OHCmMvFHUFpOk5xRgD2brM-e9UGQ5BWeWsg1n9Zlb1wsnMfRIFhmCDOnUvukmo:https://previews.123rf.com/images/kentoh/kentoh1707/kentoh170700013/81447994-fun-pixel-background-seamless-repeating-pattern-art.jpg&usqp=CAU);
+}
+.textbackground{
+    background-color: white;
+}
+
+.extra{
+    border-color:green;
+    border-style:solid;
+
+    background-color: chartreuse;
+    display: inline-block;
+}
+.extra2{
+    box-sizing:border-box;
+    border-color:red;
+    border-style:solid;
+    width:225px;
+    display:inline-block;
+    background-color: pink;
+
+
+}
+.extra3{
+    border-color:purple;
+    border-style:solid;
+    background-color: blue;
+    display: inline-block;
+
+    
+}
